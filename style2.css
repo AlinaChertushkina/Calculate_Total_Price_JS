@@ -1,0 +1,27 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.paintings {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.painting {
+    width: 300px;
+    height: 400px;
+}
+
+.button {
+    margin-left: 565px;
+    margin-top: 50px;
+}
+
+#message {
+    display: none;
+    margin-left: 470px;
+    margin-top: 20px;
+}
